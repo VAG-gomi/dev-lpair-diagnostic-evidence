@@ -1,0 +1,33 @@
+DEV-LPAIR-001:train:L-SHARED:W10:0 done wall=108.2 reached=644/1000 updates=116442
+DEV-LPAIR-001:eval:L-SHARED:W10:0:W10 done wall=0.02 reached=20/20
+DEV-LPAIR-001:eval:L-SHARED:W10:0:W10h done wall=0.11 reached=0/20
+DEV-LPAIR-001:train:L-SHARED:W10:1 done wall=107.4 reached=639/1000 updates=113077
+DEV-LPAIR-001:eval:L-SHARED:W10:1:W10 done wall=0.02 reached=20/20
+DEV-LPAIR-001:eval:L-SHARED:W10:1:W10h done wall=0.13 reached=0/20
+DEV-LPAIR-001:train:L-SHARED:W10:2 done wall=113.9 reached=606/1000 updates=120246
+DEV-LPAIR-001:eval:L-SHARED:W10:2:W10 done wall=0.06 reached=13/20
+DEV-LPAIR-001:eval:L-SHARED:W10:2:W10h done wall=0.11 reached=0/20
+DEV-LPAIR-001:train:L-SHARED:W20:0 done wall=276.2 reached=450/1000 updates=149722
+DEV-LPAIR-001:eval:L-SHARED:W20:0:W20 done wall=0.15 reached=4/20
+DEV-LPAIR-001:eval:L-SHARED:W20:0:W20h done wall=0.19 reached=0/20
+DEV-LPAIR-001:train:L-SHARED:W20:1 done wall=290.1 reached=399/1000 updates=156050
+DEV-LPAIR-001:eval:L-SHARED:W20:1:W20 done wall=0.17 reached=0/20
+DEV-LPAIR-001:eval:L-SHARED:W20:1:W20h done wall=0.15 reached=0/20
+DEV-LPAIR-001:train:L-SHARED:W20:2 done wall=268.9 reached=472/1000 updates=147205
+DEV-LPAIR-001:eval:L-SHARED:W20:2:W20 done wall=0.05 reached=20/20
+DEV-LPAIR-001:eval:L-SHARED:W20:2:W20h done wall=0.17 reached=0/20
+DEV-LPAIR-001:train:L-SVA:W10:0 done wall=156.7 reached=671/1000 updates=112500
+DEV-LPAIR-001:eval:L-SVA:W10:0:W10 done wall=0.03 reached=20/20
+DEV-LPAIR-001:eval:L-SVA:W10:0:W10h done wall=0.17 reached=0/20
+DEV-LPAIR-001:train:L-SVA:W10:1 done wall=163.4 reached=656/1000 updates=117454
+DEV-LPAIR-001:eval:L-SVA:W10:1:W10 done wall=0.04 reached=20/20
+DEV-LPAIR-001:eval:L-SVA:W10:1:W10h done wall=0.16 reached=0/20
+DEV-LPAIR-001:train:L-SVA:W10:2 done wall=160.3 reached=653/1000 updates=116711
+DEV-LPAIR-001:eval:L-SVA:W10:2:W10 done wall=0.03 reached=20/20
+DEV-LPAIR-001:eval:L-SVA:W10:2:W10h done wall=0.17 reached=0/20
+DEV-LPAIR-001:train:L-SVA:W20:0 done wall=495.6 reached=363/1000 updates=157366
+DEV-LPAIR-001:eval:L-SVA:W20:0:W20 done wall=0.11 reached=19/20
+DEV-LPAIR-001:eval:L-SVA:W20:0:W20h done wall=0.33 reached=0/20
+DEV-LPAIR-001:train:L-SVA:W20:1 done wall=439.7 reached=517/1000 updates=139631
+DEV-LPAIR-001:eval:L-SVA:W20:1:W20 done wall=0.07 reached=20/20
+DEV-LPAIR-001:eval:L-SVA:W20:1:W20h done wall=0.28 reached=0/20

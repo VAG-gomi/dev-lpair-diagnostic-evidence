@@ -1,0 +1,27 @@
+PASS shared W10 shape 18 params 3986 3986
+PASS shared W20 params 13586 13586
+PASS sva W10 sel 3 + act 15 params 7378 7378
+PASS sva W20 params 26578 26578
+PASS encoder W10 length 105 
+PASS encoder one-hot + door 
+PASS encoder blank at start: phase/remaining/K 0 [1. 0. 0. 0. 1.]
+PASS encoder prev-door at reset = current door 
+PASS encoder prev-door updates to previous tick 
+PASS encoder once per encode (calls increment 1) 
+PASS encoder K=1 after convergence [1.   0.05 0.9  1.   1.  ]
+PASS encoder phase/remaining match model 
+PASS encoder no goal/geometry/next_door direct read 
+PASS encoder tick only via model.observe 
+PASS shared target recomputes act (not stored) A_next=[1] y_head=[4.95]
+PASS shared selector target = own max [9.9]
+PASS sva selector target = best head value, not selector max [4.95]
+PASS sva action target same rule as shared 
+PASS terminal target = reward alone 
+PASS masked selector loss only chosen 
+PASS masked action loss only chosen flat index 
+PASS greedy deterministic (1, 1)
+PASS greedy act in 0..2 action in 0..4 
+PASS replay stores all required fields 
+flat index round-trip: PASS (checked by construction act*5+a)
+CHECKS TOTAL 24 FAIL 0
+ALL IMPLEMENTATION CHECKS PASS (implementation evidence only, not experimental evidence)
