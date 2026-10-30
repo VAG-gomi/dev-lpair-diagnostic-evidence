@@ -1,4 +1,4 @@
-# DEV-LPAIR diagnostic evidence — private backup
+# DEV-LPAIR diagnostic evidence — public backup
 
 This repository is an **evidence backup**, created so the work is not lost if
 it is forgotten. It is **not** a publication, **not** an official experiment
