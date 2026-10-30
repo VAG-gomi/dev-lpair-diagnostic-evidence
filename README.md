@@ -55,3 +55,11 @@ computation, replay, or experiment, and does not change the status of the
 workbench repository (frozen) or the sibling template repository
 (announced). Any future step on this track requires its own explicit owner
 authorisation in the owner's own words.
+
+## Related repository
+
+- [`VAG-gomi/universal-learning-model-template`](https://github.com/VAG-gomi/universal-learning-model-template)
+  — the public universal template repository. This evidence repository
+  is a separate backup and is not part of that template; the two
+  repositories link to each other instead of duplicating each other's
+  contents.
